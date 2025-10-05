@@ -41,11 +41,35 @@ A complete doctor appointment application built with the **MERN Stack (MongoDB, 
 ---
 
 ## 🖼️ Screenshots
-![Homepage Screenshot](Appointmg-screenshots/Homepage.png)
-![Appointment Booking Page](Appointmg-screenshots/Appointment-booking.png)
-![My Appointments Page](Appointmg-screenshots/My-Appointments.png)
-![Admin Dashboard](Appointmg-screenshots/Admin-dashboard.png)
-![Doctor Dashboard](Appointmg-screenshots/Doctor-Dashboard.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="Appointmg-screenshots/Homepage.png" width="300px"/><br>
+      Homepage Screenshot
+    </td>
+    <td align="center">
+      <img src="Appointmg-screenshots/Appointment-booking.png" width="300px"/><br>
+      Appointment Booking Page
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Appointmg-screenshots/My-Appointments.png" width="300px"/><br>
+      My Appointments Page
+    </td>
+    <td align="center">
+      <img src="Appointmg-screenshots/Admin-dashboard.png" width="300px"/><br>
+      Admin Dashboard
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="Appointmg-screenshots/Doctor-Dashboard.png" width="300px"/><br>
+      Doctor Dashboard
+    </td>
+  </tr>
+</table>
+
 
 
 ## 📁 Repositories
