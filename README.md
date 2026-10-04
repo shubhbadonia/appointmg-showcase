@@ -73,9 +73,8 @@ A complete doctor appointment application built with the **MERN Stack (MongoDB, 
 
 
 ## 📁 Repositories
-- [Frontend (Private)](https://github.com/shubhbadonia/appointmg-frontend)  
-- [Admin (Private)](https://github.com/shubhbadonia/appointmg-admin)  
-- [Backend (Private)](https://github.com/shubhbadonia/appointmg-backend)
+- [Frontend](https://github.com/shubhbadonia/appointmg-frontend)  
+- [Admin](https://github.com/shubhbadonia/appointmg-admin)  
+- [Backend](https://github.com/shubhbadonia/appointmg-backend)
 
-> Private repos available upon request.
 > Built with passion as a learning and showcase project to explore full-stack development with MERN.
