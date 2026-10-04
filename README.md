@@ -3,6 +3,11 @@
 A complete doctor appointment application built with the **MERN Stack (MongoDB, Express, React, Node.js)**.
 
 ---
+## 📁 Repositories
+- [Frontend](https://github.com/shubhbadonia/appointmg-frontend)  
+- [Admin](https://github.com/shubhbadonia/appointmg-admin)  
+- [Backend](https://github.com/shubhbadonia/appointmg-backend)
+---
 
 ## 🎯 Major Focus
 
@@ -71,10 +76,5 @@ A complete doctor appointment application built with the **MERN Stack (MongoDB, 
 </table>
 
 
-
-## 📁 Repositories
-- [Frontend](https://github.com/shubhbadonia/appointmg-frontend)  
-- [Admin](https://github.com/shubhbadonia/appointmg-admin)  
-- [Backend](https://github.com/shubhbadonia/appointmg-backend)
 
 > Built with passion as a learning and showcase project to explore full-stack development with MERN.
